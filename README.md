@@ -1,1 +1,1 @@
-# NLP-Assignments--- 9 assignments for NLP.
+# NLP-Assignments--- 9 assignments.
